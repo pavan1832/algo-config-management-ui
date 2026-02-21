@@ -1,0 +1,15 @@
+[
+  {
+    "id": "f1c1ed6b-9da4-4d1c-86db-cebf98fa6eb5",
+    "name": "Nifty",
+    "instrument": "NIFTY",
+    "timeframe": "1m",
+    "entryThreshold": 0.85,
+    "exitThreshold": 0.4,
+    "maxLossPct": 2,
+    "maxTradesPerDay": 1,
+    "enabled": true,
+    "createdAt": "2026-02-21T10:31:33.081Z",
+    "updatedAt": "2026-02-21T10:31:33.081Z"
+  }
+]
